@@ -73,7 +73,7 @@ $(document).ready(function () {
 
     $('html, body').animate(
       {
-        scrollTop: $('#skills').offset().top - 50,
+        scrollTop: $('#experience').offset().top - 50,
       },
       1000
     )
