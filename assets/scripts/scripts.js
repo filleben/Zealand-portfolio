@@ -57,6 +57,17 @@ $(document).ready(function () {
     )
   })
 
+  $('.js-hook--references').click(function (e) {
+    e.preventDefault()
+
+    $('html, body').animate(
+      {
+        scrollTop: $('#references').offset().top - 50,
+      },
+      1000
+    )
+  })
+
   $('.js-hook--experience').click(function (e) {
     e.preventDefault()
 
