@@ -9,7 +9,7 @@
 .section-title {
  text-transform: uppercase;
  text-align: center;
- padding-top: 50px;
+ padding-top: 25px;
 }
 
 .subtitle {
@@ -18,12 +18,8 @@
 }
 
 .text {
+ text-align: justify;
  font-size: 18px;
-}
-
-.profile-text {
- text-align: center;
- margin: auto;
 }
 
 .block-divider {
@@ -102,6 +98,7 @@ nav {
 }
 
 .title {
+ text-transform: uppercase;
  color: #fff;
  font-size: 50px;
 }
