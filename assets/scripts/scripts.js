@@ -7,7 +7,7 @@ $(document).ready(function () {
 
     $('html, body').animate(
       {
-        scrollTop: $('#about').offset().top - 100,
+        scrollTop: $('#about').offset().top - 50,
       },
       1000
     )
@@ -29,7 +29,7 @@ $(document).ready(function () {
 
     $('html, body').animate(
       {
-        scrollTop: $('#skills').offset().top - 100,
+        scrollTop: $('#skills').offset().top - 50,
       },
       1000
     )
@@ -40,7 +40,7 @@ $(document).ready(function () {
 
     $('html, body').animate(
       {
-        scrollTop: $('#skills').offset().top - 100,
+        scrollTop: $('#demos').offset().top - 50,
       },
       1000
     )
@@ -51,7 +51,7 @@ $(document).ready(function () {
 
     $('html, body').animate(
       {
-        scrollTop: $('#education').offset().top - 100,
+        scrollTop: $('#education').offset().top - 50,
       },
       1000
     )
@@ -62,7 +62,7 @@ $(document).ready(function () {
 
     $('html, body').animate(
       {
-        scrollTop: $('#skills').offset().top - 100,
+        scrollTop: $('#skills').offset().top - 50,
       },
       1000
     )
@@ -73,7 +73,7 @@ $(document).ready(function () {
 
     $('html, body').animate(
       {
-        scrollTop: $('#contact').offset().top - 100,
+        scrollTop: $('#contact').offset().top - 50,
       },
       1000
     )
